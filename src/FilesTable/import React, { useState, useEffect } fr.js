@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import FilesTable from "../FilesTable/FilesTable.js";
-import "./app.css";
+import "./App.css";
+import FilesTable from "../FilesTable";
 
 function App() {
   const [csvFiles, setCsvFiles] = useState([]);

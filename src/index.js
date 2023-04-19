@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
-import App from "./App/index";
+import App from "./App/idex.js";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
