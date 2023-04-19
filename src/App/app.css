@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+}
+
+.no-records-found {
+  color: red;
+  padding-top: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.title {
+  background: rgb(253, 89, 95);
+  color: white;
+  padding: 5px 0px;
+  border: solid 1px black;
+}
